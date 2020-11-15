@@ -1,4 +1,4 @@
-# Experimental_Processing_Toolbox
+# Experimental_Fluid_Dynamics_Toolbox
 Hydrodynamic experimental data analysis using LDV, PIV and force measurements
 
 # Import data
