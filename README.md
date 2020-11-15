@@ -1,5 +1,11 @@
 # Experimental_Processing_Toolbox
-Analysing of hydrodynamic experimental data from LDV, PIV and force measurements
+Hydrodynamic experimental data analysis using LDV, PIV and force measurements
+
+# Import data
+Code for importing data from txt-ascii file to mat-file for easy access
 
 # Particle Image Velocimetry
-Use matlab to interpolate a laser sheet reflection of a known geometrical shape and map the velocity field to a known coordinate system
+
+# LDV
+
+
